@@ -1,0 +1,2 @@
+URL de bucket: http://midominiojcruiz.ml.s3-website-us-east-1.amazonaws.com
+dominio: midominiojcruiz.ml
